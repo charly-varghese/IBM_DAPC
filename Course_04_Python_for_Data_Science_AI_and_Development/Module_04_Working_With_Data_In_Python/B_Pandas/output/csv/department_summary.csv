@@ -1,0 +1,7 @@
+Department,Employees,Total_Salary,Average_Salary,Highest_Salary,Lowest_Salary,Average_Experience
+IT,2,133000.0,66500.0,68000.0,65000.0,4.0
+Sales,2,128200.0,64100.0,70000.0,58200.0,7.0
+Unknown,2,114000.0,57000.0,62000.0,52000.0,3.0
+Marketing,2,109000.0,54500.0,55000.0,54000.0,3.0
+Finance,2,108000.0,54000.0,58000.0,50000.0,2.5
+HR,2,106200.0,53100.0,58200.0,48000.0,1.5

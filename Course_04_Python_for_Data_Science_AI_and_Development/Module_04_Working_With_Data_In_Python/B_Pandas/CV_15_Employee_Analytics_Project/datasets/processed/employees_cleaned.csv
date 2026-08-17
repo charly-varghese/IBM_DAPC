@@ -1,0 +1,13 @@
+Employee_ID,Name,Department,Salary,Experience,City
+101,Rose,Finance,50000.0,2.0,Cochin
+102,John,IT,65000.0,5.0,Bangalore
+103,James,HR,58200.0,1.0,Chennai
+104,Mary,Marketing,55000.0,3.0,Hyderabad
+105,David,Sales,70000.0,6.0,Not Available
+106,Linda,Unknown,62000.0,4.0,Mumbai
+107,Kevin,Finance,58000.0,3.0,Not Available
+108,Sophia,HR,48000.0,2.0,Kochi
+109,Alex,Sales,58200.0,8.0,Delhi
+110,Emma,Marketing,54000.0,3.0,Not Available
+111,Michael,IT,68000.0,3.0,Pune
+112,Sara,Unknown,52000.0,2.0,Ahmedabad

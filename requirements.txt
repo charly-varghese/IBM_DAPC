@@ -1,1 +1,10 @@
-# Python package requirements
+# IBM DAPC - Course 04
+# Python for Data Science, AI & Development
+
+numpy
+pandas
+requests
+beautifulsoup4
+openpyxl
+matplotlib
+

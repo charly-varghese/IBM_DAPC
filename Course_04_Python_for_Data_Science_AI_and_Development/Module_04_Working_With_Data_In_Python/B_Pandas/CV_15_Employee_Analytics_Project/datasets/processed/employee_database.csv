@@ -1,0 +1,13 @@
+Employee_ID,Name,Department,Salary,Experience,City,Department_ID,Manager,State,Project,Join_Date
+101,Rose,Finance,50000.0,2.0,Cochin,D01,Thomas,Kerala,ERP,2021-01-15
+102,John,IT,65000.0,5.0,Bangalore,D02,William,Karnataka,AI Dashboard,2021-03-10
+103,James,HR,58200.0,1.0,Chennai,D03,Susan,Tamil Nadu,HR Portal,2022-02-18
+104,Mary,Marketing,55000.0,3.0,Hyderabad,D04,Joseph,Telangana,CRM,2022-05-20
+105,David,Sales,70000.0,6.0,Not Available,D05,George,Unknown,Sales Analytics,2023-01-12
+106,Linda,Unknown,62000.0,4.0,Mumbai,D06,Not Assigned,Maharashtra,Cloud Migration,2023-04-08
+107,Kevin,Finance,58000.0,3.0,Not Available,D01,Thomas,Unknown,Financial Forecast,2023-07-14
+108,Sophia,HR,48000.0,2.0,Kochi,D03,Susan,Kerala,Recruitment System,2024-02-01
+109,Alex,Sales,58200.0,8.0,Delhi,D05,George,Delhi,BI Dashboard,2024-05-15
+110,Emma,Marketing,54000.0,3.0,Not Available,D04,Joseph,Unknown,Digital Marketing,2024-09-10
+111,Michael,IT,68000.0,3.0,Pune,D02,William,Maharashtra,Cyber Security,2025-01-22
+112,Sara,Unknown,52000.0,2.0,Ahmedabad,D06,Not Assigned,Gujarat,Data Warehouse,2025-06-18
